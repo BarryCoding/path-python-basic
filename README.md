@@ -96,3 +96,29 @@ adverbs = [
     "vigorously",
 ]
 ```
+
+## Space Race
+
+Create a dictionary named captains by using this list of tuples:
+```py
+[
+    ("Enterprise", "Picard"),
+    ("Voyager", "Janeway"),
+    ("Defiant", "Sisko"),
+]
+```
+
+Then, add another spaceship named "Old Bessie" with captain "Leela" to captains.
+
+Next, store a list of the spaceship names in a variable named spaceships.
+
+Randomly pick three spaceships from spaceships and store them in a list named positions.
+
+Create create dictionary named winners with the keys 1, 2, and 3. The default values should be "unknown" for each key.
+
+Finally, loop over captains and congratulate the captain of the ship with the first ship and motivate the captain who didn’t make it to the top three.
+
+```
+Better luck next time, Picard.
+Congratulations, Sisko!
+```
