@@ -1,0 +1,22 @@
+date,transaction_no,payment_method,category,item,qty,price,subtotal,comment
+1970-12-01,1,bank transfer,bills,rent,1,"3,100.00","3,100.00",(incl. garage)
+1970-12-02,2,cash,groceries,bread,1,6.99,6.99,
+1970-12-02,2,cash,groceries,milk,1,3.99,3.99,
+1970-12-02,2,cash,groceries,orange juice,1,5.69,5.69,
+1970-12-02,2,cash,groceries,bananas,0.832,6.99,5.82,
+1970-12-02,2,cash,groceries,avocado,2,9.49,18.98,
+1970-12-02,2,cash,groceries,macrel,0.322,24.90,8.02,
+1970-12-02,2,cash,groceries,tomatoes,0.33,17.99,5.94,
+1970-12-02,2,cash,groceries,onion,0.136,5.99,0.81,
+1970-12-02,2,cash,groceries,yoghurt,4,1.78,7.12,
+1970-12-02,2,cash,cosmetics,tooth paste,1,19.99,19.99,
+1970-12-02,3,card ***1234,car,fuel,37.14,8.74,324.60,Local gas station around the corner
+1970-12-05,4,online transfer,birthday party,pizza,1,42.00,42.00,
+1970-12-05,4,online transfer,birthday party,coke,1,10.00,9.00,
+1970-12-05,4,online transfer,birthday party,delivery,1,10.00,10.00,
+1970-12-05,5,cash,birthday party,tip,1,10.00,5.00,
+1970-12-05,6,card ***4567,entertainment,cinema tickets,2,28.40,5.00,
+1970-12-07,7,card ***1234,pet,dog food,1,424.94,424.94,
+1970-12-07,8,cash,pet,vet,1,110.00,110.00,
+1970-12-08,9,card ***4567,gifts,perfume,1,448.00,448.00,
+1970-12-11,10,cash,healthcare,dentist appointment,1,370.00,370.00,Routine check-up and deep cleaning
